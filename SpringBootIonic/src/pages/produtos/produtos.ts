@@ -44,4 +44,9 @@ import { ProdutoService } from '../../services/domain/produto.service';
           error => {});
       }
     }
+
+    showDetail() {
+      this.navCtrl.push('ProdutoDetailPage');
+    }
+
  }
