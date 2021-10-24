@@ -3,10 +3,14 @@
 <p align="center">Estudo de SpringBoot criando o Front da Aplicação com ionic 🤖</p>
 <table>
 <tr><td align="center">
+Pedido<br>
+<img src="https://user-images.githubusercontent.com/92112596/138920328-52f6c055-e207-418f-910f-653b15d67d05.gif"  alt="Pedido"/>
+</td><td align="center">
 Cadastro<br>
 <img src="https://user-images.githubusercontent.com/92112596/138920333-aafb084f-6d17-49ff-a562-9106139a4467.gif"  alt="Cadastro"/>
 </td></tr>
 </table>
+
 
 
 <hr />
@@ -38,4 +42,6 @@ Linguagens e ferramentas: <br />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="30" height="30" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="30" height="30"/>
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="perl" width="30" height="30" />
+
+
 
